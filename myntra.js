@@ -1,0 +1,1 @@
+alert('This is a Myntra Clone developed by Ayush');
